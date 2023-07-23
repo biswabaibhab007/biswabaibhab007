@@ -1,6 +1,10 @@
 <!-- [MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png) -->
+   
 <hr><h1 align="center">Hi 👋, I'm Biswa Baibhab Subudhi</h1>
 <h3 align="center">Currently learning WebDEV</h3><hr>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=biswabaibhab007&&style=flat-square" align="left" /><br>
+</div>  
 <img align="right"  width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding gif">
 
 - 😄 Pronouns: He/Him
