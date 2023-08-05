@@ -9,7 +9,7 @@
 
 - 😄 Pronouns: He/Him
   
-- 🌱 I'm currently learning **JavaScript**
+- 🌱 I'm currently learning **ReactJS**
 
 - 💪 Currently working on <a href="https://biswabaibhab007.github.io/portfolio">Portfolio Website</a>
 
