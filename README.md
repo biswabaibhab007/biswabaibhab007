@@ -1,29 +1,25 @@
 <!-- [MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png) -->
    
 <hr><h1 align="center">Hi 👋, I'm Biswa Baibhab Subudhi</h1>
-<h3 align="center">Currently learning WebDEV</h3><hr>
+<h2 align="center">Frontend Web Developer</h2><hr>
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=biswabaibhab007&&style=flat-square" align="left" /><br>
 </div>  
 <img align="right"  width="350" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" alt="coding gif">
 
-- 😄 Pronouns: He/Him
-  
-- 🌱 I'm currently learning **ReactJS**
+> - 😄 Pronouns: He/Him
+> - 🌱 I'm currently learning **ReactJS**
+> - 💪 Currently working on <a href="https://biswabaibhab007.github.io/portfolio">Portfolio Website</a>
+> - 📫 How to reach me **biswabaibhab007@gmail.com**
+> - ✨ Fun fact **I always feel my best when it's raining..**
 
-- 💪 Currently working on <a href="https://biswabaibhab007.github.io/portfolio">Portfolio Website</a>
-
-- 📫 How to reach me **biswabaibhab007@gmail.com**
-
-- ✨ Fun fact **I always feel my best when it's raining..**
-
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/biswa_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="biswa_007" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/biswa-baibhab-subudhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswa-baibhab-subudhi" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
@@ -41,6 +37,9 @@
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswabaibhab007&show_icons=true&locale=en&layout=compact" alt="biswabaibhab007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswabaibhab007&show_icons=true&locale=en" alt="biswabaibhab007" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=biswabaibhab007&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=biswabaibhab007&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=biswabaibhab007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
